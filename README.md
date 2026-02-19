@@ -1,11 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:162447&height=220&section=header&text=Vinit%20Dhiren%20Bahua&fontSize=45&fontColor=58a6ff&fontAlignY=38&desc=Data%20Scientist%20%26%20Data%20Engineer%20%7C%20MS%20Data%20Science%20%40%20Northeastern&descAlignY=58&descSize=15&descColor=8b949e)
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-bahua-586466246/)
-[![Gmail](https://img.shields.io/badge/bahua.v@northeastern.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahua.v@northeastern.edu)
-[![GitHub](https://img.shields.io/badge/vinitbahua123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinitbahua123)
+# Vinit Dhiren Bahua
 
+### Data Scientist · Data Engineer · MS Data Science @ Northeastern University
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-bahua-586466246/)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahua.v@northeastern.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinitbahua123)
 ![Profile Views](https://komarev.com/ghpvc/?username=vinitbahua123&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -145,5 +146,3 @@ class Vinit:
 [![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahua.v@northeastern.edu)
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:162447,50:1a1a2e,100:0d1117&height=120&section=footer)
