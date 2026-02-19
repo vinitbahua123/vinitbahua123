@@ -1,4 +1,4 @@
-# Hi, I'm Vinit 👋
+# Hi, I'm Vinit 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&width=600&lines=Data+Scientist+%7C+Data+Engineer;MS+Data+Science+%40+Northeastern;Building+ML+Pipelines+%26+GenAI+Apps;Open+to+Fall+2026+Co-op+Opportunities)
 
