@@ -121,14 +121,13 @@ class Vinit:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinitbahua123&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitbahua123&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8)
 
 ![Streak](https://streak-stats.demolab.com?user=vinitbahua123&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
 
-</div>
 
 ---
 
