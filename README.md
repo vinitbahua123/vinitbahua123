@@ -10,7 +10,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vinitbahua123&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=vinitbahua123&amp;color=58a6ff&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" />
 
 </div>
 
@@ -43,58 +43,58 @@ class Vinit:
 
 ### 🐍 Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:162447,50:1a1a2e,100:0d1117&amp;height=120&amp;section=footer"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&amp;logo=r&amp;logoColor=white"/>
 </p>
 
 ### ☁️ Cloud & Data Engineering
 <p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&amp;logo=databricks&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&amp;logo=apachespark&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&amp;logo=snowflake&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&amp;logo=apachehadoop&amp;logoColor=black"/>
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&amp;logo=duckdb&amp;logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white"/>
 </p>
 
 ### 🤖 ML / AI / GenAI
 <p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Llama%203.1-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&amp;logo=mlflow&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Llama%203.1-0467DF?style=for-the-badge&amp;logo=meta&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black"/>
 </p>
 
 ### 📊 BI & Visualization
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&amp;logo=tableau&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&amp;logo=looker&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white"/>
 </p>
 
 ### 🧰 Dev & Deployment
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white"/>
 </p>
 
 ---
@@ -106,8 +106,8 @@ class Vinit:
 | [churn-clv-realtime](https://github.com/vinitbahua123/churn-clv-realtime) | Real-time Customer Churn & CLV Prediction | **84% ROC-AUC** · Churn 26%→21% | Python · MLflow · DuckDB · Streamlit |
 | [AI-Enabled-Company-Info-Extractor](https://github.com/vinitbahua123/AI-Enabled-Company-Information-Extractor) | GenAI company data extraction tool | **90%+ accuracy** · 40% error reduction | OpenAI · LangChain · Streamlit |
 | [financial-data-pipeline](https://github.com/vinitbahua123/financial-data-pipeline) | End-to-end pipeline with medallion architecture | 17K+ records · Bronze/Silver/Gold | PostgreSQL · Python · SQL |
-| [ecommerce-clv-prediction](https://github.com/vinitbahua123/ecommerce-clv-prediction) | CLV Prediction using RFM + K-Means clustering | ML segmentation on large retail dataset | Python · scikit-learn · Pandas |
-| [Resolving-Dates-Using-NLP](https://github.com/vinitbahua123/Resolving-Dates-Using-NLP) | Temporal event extraction from unstructured text | **68% reduction** in manual processing time | Python · Llama 3.1 · SpaCy |
+| [ecommerce-clv-prediction](https://github.com/vinitbahua123/ecommerce-clv-prediction) | CLV Prediction using RFM + K-Means clustering | ML segmentation on 541K transactions | Python · scikit-learn · Pandas |
+| [Resolving-Dates-Using-NLP](https://github.com/vinitbahua123/Resolving-Dates-Using-NLP) | Temporal event extraction from unstructured text | **68% reduction** in manual processing | Python · Llama 3.1 · SpaCy |
 | [BRFSS-DSProject](https://github.com/vinitbahua123/BRFSS-DSProject) | Behavioral health data analysis (CDC dataset) | Statistical modeling & visual insights | R · ggplot2 |
 
 ---
@@ -132,13 +132,13 @@ class Vinit:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinitbahua123&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitbahua123&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinitbahua123&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitbahua123&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;langs_count=8"/>
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vinitbahua123&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com?user=vinitbahua123&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=ff7b72&amp;currStreakLabel=58a6ff" />
 </div>
 
 ---
@@ -146,7 +146,7 @@ class Vinit:
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinitbahua123&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinitbahua123&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=ff7b72&amp;area=true" />
 </div>
 
 ---
@@ -155,9 +155,9 @@ class Vinit:
 
 ### 🎯 Seeking Fall 2026 Co-op · Data Science · Data Engineering · ML Engineering
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/vinit-bahua](https://www.linkedin.com/in/vinit-bahua-586466246/))
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-bahua-586466246/)
 [![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahua.v@northeastern.edu)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:162447,50:1a1a2e,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:162447,50:1a1a2e,100:0d1117&amp;height=120&amp;section=footer"/>
 
 </div>
