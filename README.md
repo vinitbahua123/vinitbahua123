@@ -1,14 +1,11 @@
-<div align="center">
-
 # Vinit Dhiren Bahua
 
 ### Data Scientist · Data Engineer · MS Data Science @ Northeastern University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-bahua-586466246/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahua.v@northeastern.edu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahua.v@northeastern.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinitbahua123)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=vinitbahua123&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
@@ -120,24 +117,13 @@ class Vinit:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinitbahua123&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitbahua123&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8)
+![Streak](https://streak-stats.demolab.com?user=vinitbahua123&theme=github-dark-blue&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com?user=vinitbahua123&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
-
----
-
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinitbahua123&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinitbahua123&theme=github-compact&hide_border=true&area=true)
 
 ---
 
-<div align="center">
-
-### 🎯 Seeking Fall 2026 Co-op · Data Science · Data Engineering · ML Engineering
+## 🎯 Seeking Fall 2026 Co-op · Data Science · Data Engineering · ML Engineering
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-bahua-586466246/)
 [![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahua.v@northeastern.edu)
-
-</div>
