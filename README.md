@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/vinit-bahua](https://www.linkedin.com/in/vinit-bahua-586466246/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-bahua-586466246/)
 [![Gmail](https://img.shields.io/badge/bahua.v@northeastern.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahua.v@northeastern.edu)
 [![GitHub](https://img.shields.io/badge/vinitbahua123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinitbahua123)
 
