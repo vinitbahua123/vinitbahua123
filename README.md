@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:162447&height=220&section=header&text=Vinit%20Dhiren%20Bahua&fontSize=45&fontColor=58a6ff&fontAlignY=38&desc=Data%20Scientist%20%26%20Data%20Engineer%20%7C%20MS%20Data%20Science%20%40%20Northeastern&descAlignY=58&descSize=15&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1a2e,100:162447&amp;height=220&amp;section=header&amp;text=Vinit%20Dhiren%20Bahua&amp;fontSize=45&amp;fontColor=58a6ff&amp;fontAlignY=38&amp;desc=Data%20Scientist%20%26%20Data%20Engineer%20%7C%20MS%20Data%20Science%20%40%20Northeastern&amp;descAlignY=58&amp;descSize=15&amp;descColor=8b949e" />
 
 <br/>
 
@@ -44,7 +44,7 @@ class Vinit:
 ### 🐍 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:162447,50:1a1a2e,100:0d1117&amp;height=120&amp;section=footer"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
